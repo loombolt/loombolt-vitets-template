@@ -4,7 +4,7 @@ This is a starter template for building modern web applications using Vite, Reac
 
 ## What is Loombolt?
 
-Loombolt lets you build web apps by simply chatting with AI. No coding skills needed—just describe what you want, and the AI handles the rest.
+Loombolt lets you build web apps by simply chatting with AI. No coding skills needed. Just describe what you want, and the AI handles the rest.
 
 ## Tech Stack
 
