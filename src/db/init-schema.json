@@ -1,0 +1,22 @@
+{
+    "schemas":[
+				{
+					"welcome": {
+						"fields": [
+							{ "name": "message", "type": "text", "label": "Message" },
+							{ "name": "recordId", "type": "number", "label": "Record ID" }
+						]
+					}
+                }
+			],
+    "records":[
+                {
+                    "welcome":[
+                        {
+                            "message": "Hello from loombolt DB.",
+                            "recordId": 1
+                        }
+                    ]
+                }
+            ]
+}
